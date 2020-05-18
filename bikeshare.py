@@ -214,4 +214,4 @@ def muestra_data(df):
                     
                     
 muestra_data(df)
-print("Gracias por visitarnos")
+print("Gracias por visitarnos, un maravilloso dia")
