@@ -32,7 +32,7 @@ while search_city.lower() == "chicago" or "new york" or "washington":
       Resultado  =(mensajes[3])
       print(ciudad)
       print(Resultado) 
-      search_city = input('Ingrese su ciudad ')  
+      search_city = input('Ingrese la ciudad que desee')  
     break 
     if search_city == "chicago":
       Resultado = (mensajes[0])
