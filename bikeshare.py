@@ -45,7 +45,7 @@ while search_city.lower() == "chicago" or "new york" or "washington":
 print(Resultado) 
      
 ciudad = search_city.lower() 
-Input_Fecha = input('Ingrese el mes del primer semestre de 2017 ')
+Input_Fecha = input('Ingrese el mes del primer semestre de 2017 que desee')
 month = Input_Fecha.lower()
 
 Datos_Ciudades = { 'chicago': 'chicago.csv','new york': 'new_york_city.csv','washington': 'washington.csv' }
